@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**catrock31/catrock31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![@catrock31's Holopin board](https://holopin.io/api/user/board?user=catrock31)](https://holopin.io/@catrock31)
 
@@ -13,4 +11,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him they them is chill
 - ⚡ Fun fact: ...
--->
